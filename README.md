@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm name is Valery <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Hi, I'm Valery <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
 - 🔥 Web Developer using React.js
