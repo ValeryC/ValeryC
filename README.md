@@ -24,7 +24,7 @@
 
 <br><br>
 
-## 🚀 &nbsp;Tools Creation
+## 💡 &nbsp;Tools Creation
 
 - [Search bar with pagination custom on a table](https://codesandbox.io/s/relaxed-heisenberg-lmnye?file=/src/App.js)
 - [Calculate sum of items](https://codesandbox.io/s/react-shopping-cart-usestate-forked-nih34?file=/src/index.js)
