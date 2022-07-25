@@ -7,13 +7,15 @@
 
 - 👨‍💻 My trainning on Css [Css Battle](https://cssbattle.dev/player/EAMeate9iGTYHuJN5f4mn2Cf5uY2) -- [Repo Solution](https://github.com/ValeryC/Css_Battle_achieve)
 
-- ⚡ My last work on React-typescript at [Adot](https://github.com/ValeryC/Adot) 
+- ⚡ My last work on React-typescript at [Adot](https://github.com/ValeryC/Adot) or [link-test of the App](https://fsfpb7.csb.app/)
 
 - 🧗 I love Mountain and Climbing activity when i'm not on my computer 😄
 
 <br><br>
 
 ## 🚀 &nbsp;Project
+
+- [Example of code Project in React-TypeScript](https://codesandbox.io/s/throbbing-tree-fsfpb7?file=/src/index.tsx)
 
 - [Adikteev Cross Promotion](https://www.adikteev.com/products/cross-promotion), realise feature to improve a dashboard in React-TypeScript, React-Query
 - [Didier Petitpas](https://agence-didier-petitpas.fr/) create a web site and a software to manage client budget in React
