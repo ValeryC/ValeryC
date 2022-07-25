@@ -24,6 +24,14 @@
 
 <br><br>
 
+## 🚀 &nbsp;Tools Creation
+
+- [Search bar with pagination custom on a table](https://codesandbox.io/s/relaxed-heisenberg-lmnye?file=/src/App.js)
+- [Calculate sum of items](https://codesandbox.io/s/react-shopping-cart-usestate-forked-nih34?file=/src/index.js)
+- [BartChart with recharts](https://codesandbox.io/s/bar-chart-with-customized-event-forked-s0iev?file=/src/App.tsx)
+
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
