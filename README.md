@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Valery <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
-- 🔥 Web Developer using React.js
+- 🔥 Front-end Developer using React.js
 
 - 🔭 My training at JavaScript at [CodeWars](https://www.codewars.com/users/baloulee)
 
@@ -9,7 +9,17 @@
 
 - ⚡ My last work on React-typescript at [Adot](https://github.com/ValeryC/Adot) 
 
-- 🧗 I love Mountain and climbing activity when i'm not on my computer 😄
+- 🧗 I love Mountain and Climbing activity when i'm not on my computer 😄
+
+<br><br>
+
+## 🚀 &nbsp;Project
+
+- [Adikteev Cross Promotion](https://www.adikteev.com/products/cross-promotion), realise feature to improve a dashboard in React-TypeScript, React-Query
+- [Didier Petitpas](https://agence-didier-petitpas.fr/) create a web site and a software to manage client budget in React
+- [Arthur's invest Bank](https://homologation.artur.finance/price) in React-Typescript
+- Balenciaga, Apps for manager in React, create app to order list of items, and tools to generate Qr code for special event.
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -28,6 +38,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<br>
+<img width="600em" src="https://github-readme-stats.vercel.app/api?username=valeryC&show_icons=true&theme=tokyonight" alt="valery's stats"/>
+<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryC&layout=compact&theme=tokyonight" alt="valery's most languages"/>
+
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<a href="https://www.linkedin.com/in/chin-val%C3%A9ry/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/ValeryC-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
