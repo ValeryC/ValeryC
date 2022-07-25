@@ -53,18 +53,3 @@
 <a href="https://www.linkedin.com/in/chin-val%C3%A9ry/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ValeryC-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<br>
-<img width="600em" src="https://github-readme-stats.vercel.app/api?username=valeryC&show_icons=true&theme=tokyonight" alt="valery's stats"/>
-<img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryC&layout=compact&theme=tokyonight" alt="valery's most languages"/>
-
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<a href="https://www.linkedin.com/in/chin-val%C3%A9ry/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ValeryC-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
