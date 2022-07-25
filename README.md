@@ -48,7 +48,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Social Link
 
 <a href="https://www.linkedin.com/in/chin-val%C3%A9ry/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ValeryC-05122A?style=flat&logo=linkedin" alt="linkedin"/>
