@@ -9,7 +9,7 @@
 
 - ⚡ My last work on React-typescript at [Adot](https://github.com/ValeryC/Adot) or [link-test of the App](https://fsfpb7.csb.app/)
 
-- 🧗 I love Mountain and Climbing activity when i'm not on my computer 😄
+- 🧗 I love Mountain and Climbing activities when i'm not on my computer 😄
 
 <br><br>
 
